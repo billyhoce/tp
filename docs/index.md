@@ -22,6 +22,6 @@ Welcome to **SweetRewards**, the premier desktop application designed to help sm
 ## Getting Started
 
 1. **Installation**: Ensure your device has Java 11 or higher, and download the latest version of SweetRewards.
-2. **Initialization**: Use the `seedData` command to populate your application with sample data, or start adding your members with `addmem`.
-3. **Explore Features**: Dive into managing your loyalty program with features like `addorder`, `redeempoints`, and more.
+2. **Initialization**: Use the `seeddata` command to populate your application with sample data, or start adding your members with `addmem`.
+3. **Explore Features**: Dive into managing your loyalty program with features like `addorder`, `redeempts`, and more.
 
